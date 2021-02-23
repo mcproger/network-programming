@@ -3,7 +3,8 @@
 ## Usage
 
 ```
-$ gcc time_server.c && ./a.out
+$ make time_server
+$ ./time_server
 
 Ready to use socket API.
 Configuring local address...
